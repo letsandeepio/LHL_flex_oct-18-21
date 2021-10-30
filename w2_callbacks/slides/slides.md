@@ -77,7 +77,9 @@ const printUserName = () => {}
 ### Explore on your own
 
 What is Function Hoisting?
+
 Function Calling/Invoking Vs. Function Passing
+
 Passing By Reference
 
 
