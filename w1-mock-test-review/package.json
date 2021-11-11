@@ -1,0 +1,16 @@
+{
+  "name": "exam-web-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test2": "mocha 'test/**/*.js' --recursive --watch",
+    "test": "set NODE_ENV=test&& mocha 'test/**/*.js' --exit --watch --timeout 7000 --grep"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "sinon": "^12.0.1"
+  }
+}
