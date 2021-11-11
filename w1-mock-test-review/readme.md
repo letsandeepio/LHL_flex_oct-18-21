@@ -1,9 +1,10 @@
 # Breakout Mock Test Review
 
 [Breakout Recording - Part 1](https://vimeo.com/644985372/1e09238f5a)
+
 [Breakout Recording - Part 2](https://vimeo.com/644985372/1e09238f5a)
 
-[Brakout Notes & Code]()
+[Breakout Notes & Code](https://github.com/letsandeepio/LHL_flex_oct-18-21/tree/main/w1-mock-test-review)
 
 > Notes and approaches are commented in front of the each coding test block.
 
