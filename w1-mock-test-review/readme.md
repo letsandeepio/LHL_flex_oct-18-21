@@ -2,7 +2,7 @@
 
 [Breakout Recording - Part 1](https://vimeo.com/644985372/1e09238f5a)
 
-[Breakout Recording - Part 2](https://vimeo.com/644985372/1e09238f5a)
+[Breakout Recording - Part 2](https://vimeo.com/644996483/dc6ce30cce)
 
 [Breakout Notes & Code](https://github.com/letsandeepio/LHL_flex_oct-18-21/tree/main/w1-mock-test-review)
 
