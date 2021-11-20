@@ -3,7 +3,7 @@
 
 Friday, November 19th
 
-[Breakout Recording](https://vimeo.com/647905191/1da65ae073)
+[Breakout Recording](https://vimeo.com/648072456/2e09a71dff)
 
 1. What are Classes?
 2. Questions
