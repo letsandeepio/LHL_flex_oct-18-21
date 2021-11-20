@@ -5,12 +5,18 @@
 
 
 [x] Quick review of Asynchronous (Async) Code
+
 [x] Quick recap of Callbacks
     [x] - Error handlling inside callbacks
+
 [x] Demo Time: Callback waterfall (aka Callback Hell)
+
 [x] What are promises, what problems they solve?
+
 [x] Can we create our own promises? (Hint: Yes!)
+
 [x] How to run async code in Parallel? (Promise.all and Promise.race)
+
 [x] Blue Pill -> Async & Await (here is your matrix movie reference)
 
 
