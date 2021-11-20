@@ -14,10 +14,11 @@ Friday, November 19th
 6. Class Constructor
 7. Getters & setters
     a. _ keyword
-    ce (extending classes)
-9. Supb Private properties (Stage 3 Draft Proposal)  - BONUS CONTENT
-8. Class Inheritaner keyword
-10. Disadvantages of OOP - BONUS CONTENT
+8. Inheritance (extending classes)
+9. 'Super' Keyword
+10. Private properties (Stage 3 Draft Proposal)  - BONUS
+11. Class Inheritaner keyword
+12. Disadvantages of OOP - BONUS
 
 
 Resources:
