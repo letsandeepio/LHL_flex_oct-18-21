@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>List of Rockets</title>
+</head>
+
+<body>
+  <h1>List of All Rockets</h1>
+  <h2>SpaceX</h2>
+
+  <ol>
+    <% for (let rocket of rocketsArr) { %>
+      <li>
+      <%= rocket.rocket_name %>
+      <form method="POST" action="/rockets/<%= rocket.rocket_id %>/delete">
+        <button>Delete</button>
+      </form>
+        <a href='/rockets/<%= rocket.rocket_id %>/update'>Edit</a>
+      </li>
+      <% } %>
+  </ol>
+
+  <a href="/rockets/new">Add a new Rocket</a>
+</body>
+
+</html>
