@@ -17,7 +17,7 @@ Friday, November 19th
 8. Inheritance (extending classes)
 9. 'Super' Keyword
 10. Private properties (Stage 3 Draft Proposal)  - BONUS
-11. Class Inheritaner keyword
+11. Class Inheritance
 12. Disadvantages of OOP - BONUS
 
 
