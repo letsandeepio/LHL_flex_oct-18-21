@@ -20,9 +20,7 @@ Some notes on debugging:
 
 1. Use network tab in your console to monitor the requests that you send out
 2. Make sure you start your routes with '/' while defining them (thanks Johannes for catching this)
-3. Order of your route definitions matter so make sure you are defining your routes in correct manner. The convention is from Specific to Least Specific (thanks Johannes again)
-
-My office hourse: 3 PM to PM EST
-Mentorship hours: 5 PM EST to 8:00 PM EST every day of the week except Friday.
+3. Order of your route definitions matter so make sure you are defining your routes in correct manner. 
+4. The convention is from Specific to Least Specific (thanks Johannes again)
 
 As always, being an awesome dev is a lifelong learning journey, strive on! 🚀
