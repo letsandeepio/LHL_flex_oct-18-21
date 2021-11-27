@@ -1,3 +1,0 @@
-# Lecture - CRUD with Express
-
-
