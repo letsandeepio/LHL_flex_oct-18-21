@@ -45,5 +45,4 @@ Some useful resources:
 
 2. https://www.npmjs.com/package/bcrypt
 
-3. https://expressjs.com/en/guide/
-writing-middleware.html
+3. https://expressjs.com/en/guide/writing-middleware.html
