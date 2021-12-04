@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <%- include ("_partials/header.ejs") %>
+  <title>Rocket Launched</title>
+</head>
+<body>
+<h1 class="subtitle is-1">Rocket launched Successfully!</h1>
+<img src="https://media.giphy.com/media/1UYw95vafYW4QCQwOK/giphy.gif"/><br><br>
+<a href="/dashboard" class="block button is-warning">Goto to Dashboard</a>
+  <form method="POST" action="/logout">
+    <button type="submit" class="block button is-primary">Logout</button>
+  </form>
+
+</body>
+</html>

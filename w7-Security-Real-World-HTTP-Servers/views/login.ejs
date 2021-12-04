@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
+  <%- include ("_partials/header.ejs") %>
+</head>
+
+<body>
+  <h1 class="title is-1">Login to SpaceX 🚀!</h1>
+  <h2 class="subtitle is-4">Sky is the limit</h2>
+  <div class="columns">
+    <div class="column is-one-third">
+      <div class="box">
+        <form method="POST" action="/login">
+          <label>Email address:</label>
+          <input class="block input is-rounded" name="email" />
+          <br />
+          <label>Password:</label>
+          <input class="block input is-rounded" required name="password" />
+          <br />
+          <button type="submit" class="button is-primary">Login!</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
