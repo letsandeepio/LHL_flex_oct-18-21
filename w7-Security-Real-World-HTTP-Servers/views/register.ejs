@@ -16,13 +16,16 @@
       <div class="column is-one-third">
         <div class="box">
           <form method="POST" action="/register">
+            <label>Name:</label>
+              <input class="block input is-rounded" required name="name" />
+              <br />
             <label>Email address:</label>
             <input class="block input is-rounded" name="email" />
             <br />
             <label>Password:</label>
-            <input class="block input is-rounded" required name="password" />
+            <input class="block input is-rounded" required name="password" type="password" />
             <br />
-            <button type="submit" class="button is-primary">Login!</button>
+            <button type="submit" class="button is-primary">Register!</button>
           </form>
         </div>
       </div>
