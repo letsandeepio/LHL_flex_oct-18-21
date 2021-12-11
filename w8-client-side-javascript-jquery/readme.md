@@ -1,7 +1,6 @@
 # Module 4 Week 8 - Client Side JavaScript & jQuery
 
-
-[Lecture Slides]()
+[Lecture Slides](https://github.com/letsandeepio/LHL_flex_oct-18-21/blob/main/w8-client-side-javascript-jquery/Client%20Side%20JavaScript%20%26%20jQuery.pdf)
 
 [Notes & Code](https://github.com/letsandeepio/LHL_flex_oct-18-21/tree/main/w8-client-side-javascript-jquery)
 
