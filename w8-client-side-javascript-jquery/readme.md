@@ -1,3 +1,9 @@
+## Demo Notes - Using Live Server Extension with VSCodes
+
+Live Server Extension allows us to run our code nodemon style in the browser, it will refresh our code as we make changes.
+
+Install it from here: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
 ## Client Side JS
 > Client side JavaScript is JS that runs in the browser. Here, `client` is as opposed to `server`
 
