@@ -1,3 +1,14 @@
+# Module 4 Week 8 - Client Side JavaScript & jQuery
+
+
+[Lecture Slides]()
+
+[Notes & Code](https://github.com/letsandeepio/LHL_flex_oct-18-21/tree/main/w8-client-side-javascript-jquery)
+
+
+👋🏻 Thanks for coming to the lecture. All topics covered are in the attached slides.
+
+
 ## Demo Notes - Using Live Server Extension with VSCodes
 
 Live Server Extension allows us to run our code nodemon style in the browser, it will refresh our code as we make changes.
