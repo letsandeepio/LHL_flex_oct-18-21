@@ -7,7 +7,6 @@
 
 👋🏻 Thanks for coming to the lecture. All topics covered are in the attached slides.
 
-
 ## Demo Notes - Using Live Server Extension with VSCodes
 
 Live Server Extension allows us to run our code nodemon style in the browser, it will refresh our code as we make changes.
