@@ -1,7 +1,7 @@
 ## Custom Hooks
 
 ## Topics
-- [ ] What are Custom Hooks
+- [ ] What are Custom Hooks 
 - [ ] Why Custom Hooks are useful
 - [ ] Some common hooks example (for e.g. useKeyPress, useMousePosition, useQuery etc)
 - [ ] Demo - 1 Custom Hook - useQuery (Custom Data Fetching Hooks)
