@@ -1,0 +1,3 @@
+[submodule "w20-e2e-testing-cypress/album-search"]
+	path = w20-e2e-testing-cypress/album-search
+	url = https://github.com/lighthouse-labs/album-search
